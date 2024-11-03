@@ -1,1 +1,1 @@
-esptool --chip esp32 --port COM5 flash_id 
+esptool --chip esp32 --port COM3 flash_id 

@@ -1,1 +1,1 @@
-esptool --chip esp32 --port COM5 chip_id 
+esptool --chip esp32 --port COM3 chip_id 
